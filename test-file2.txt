@@ -4,15 +4,3 @@ test-file2
 This is another test file
 
 changed
-
-again
-
-and again
-
-and again
-
-more
-
-and again
-
-more, more, more
