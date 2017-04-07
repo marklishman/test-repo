@@ -6,3 +6,5 @@ This is another test file
 changed
 
 and changed again
+
+has the sha changed?
