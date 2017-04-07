@@ -2,11 +2,3 @@
 test-file2
 
 This is another test file
-
-changed
-
-and changed again
-
-has the sha changed?
-
-how about now?
